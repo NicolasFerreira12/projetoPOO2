@@ -1,5 +1,6 @@
 # Nicolas Ferreira Bicudo Duarte - 00000851339
-# Projeto 1 - Programação Orientada a Objetos (Clínica)
+# 
+# Projeto 2 - Programação Orientada a Objetos
 
 **● Descrição:**
 Este projeto foi desenvolvido para a disciplina **Programação Orientada a Objetos**, na universidade **Universidade Católica de Pernambuco - UNICAP**.
@@ -45,7 +46,7 @@ A arquitetura segue o padrão em camadas:
 
 **● Para executar:**
   
-- git clone https://github.com/seu-usuario/projeto-clinica.git
+- git clone https://github.com/NicolasFerreira12/projetoPOO2
 
 //////////////////
 
