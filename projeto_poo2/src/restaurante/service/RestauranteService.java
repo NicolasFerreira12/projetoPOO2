@@ -38,6 +38,7 @@ public class RestauranteService
     }
 
     // Método simplificado para exemplo
+
     public double getGastoTotal(String pacienteId)
     {
         double total = 0;
