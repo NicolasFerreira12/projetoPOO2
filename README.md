@@ -1,36 +1,36 @@
 # Nicolas Ferreira Bicudo Duarte - 00000851339
-# Projeto 1 - Programação Orientada a Objetos (Clínica)
+# Leonardo D'Amorim Cireno Gomes - 00000850848
+# Projeto 2 - Programação Orientada a Objetos
 
 **● Descrição:**
 Este projeto foi desenvolvido para a disciplina **Programação Orientada a Objetos**, na universidade **Universidade Católica de Pernambuco - UNICAP**.
 
 ===================================================
 
-O sistema simula o gerenciamento de uma **Clínica**, permitindo:
 
-**● Funcionalidades:**
+O sistema simula o gerenciamento do sistema desenvolvido para a Semana Vida Plena de Recife, contendo três sistemas principais:
 
-- Cadastro de pacientes, médicos e locais
-- Agendamento de consultas
-- Listagem de todas as consultas
-- Relatórios estratégicos para tomada de decisão
-  
-**● Relatórios Disponíveis:**
+● Sistemas Implementados:
 
-- Total de médicos cadastrados
-- Consultas por médico
-- Consultas por paciente
-- Médico com mais consultas
-- Consultas realizadas
-- Total de pacientes cadastrados
+Clínica - Consultas e check-ups rápidos
 
-A arquitetura segue o padrão em camadas:
-- **model** → entidades principais (Paciente, Medico, Consulta)
-- **repository** → armazenamento dos dados em memória
-- **service** → regras de negócio e relatórios
-- **menu** → interação com o usuário via console
+Eventos - Palestras de saúde, oficinas e shows
+
+Restaurante - Cardápios funcionais e combos especiais
+
+● Características Principais:
+
+Arquitetura modular
+
+Encapsulamento com getters e setters
+
+Herança e polimorfismo aplicados
+
+Modelagem orientada a objetos seguindo boas práticas
+
 
 ===================================================
+
 
 **● Exemplos de Uso:**
 
@@ -43,11 +43,14 @@ A arquitetura segue o padrão em camadas:
 
 ===================================================
 
+
 **● Para executar:**
   
-- git clone https://github.com/seu-usuario/projeto-clinica.git
+- git clone https://github.com/NicolasFerreira12/projetoPOO2
 
-//////////////////
+
+===================================================
+
 
 **src/clinica/model:**
 
