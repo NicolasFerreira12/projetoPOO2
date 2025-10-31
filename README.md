@@ -1,5 +1,8 @@
 # Nicolas Ferreira Bicudo Duarte - 00000851339
 # Leonardo D'Amorim Cireno Gomes - 00000850848
+
+===================================================
+
 # Projeto 2 - Programação Orientada a Objetos
 
 **● Descrição:**
@@ -10,6 +13,7 @@ Este projeto foi desenvolvido para a disciplina **Programação Orientada a Obje
 
 O sistema simula o gerenciamento do sistema desenvolvido para a Semana Vida Plena de Recife, contendo três sistemas principais:
 
+
 ● Sistemas Implementados:
 
 Clínica - Consultas e check-ups rápidos
@@ -17,6 +21,7 @@ Clínica - Consultas e check-ups rápidos
 Eventos - Palestras de saúde, oficinas e shows
 
 Restaurante - Cardápios funcionais e combos especiais
+
 
 ● Características Principais:
 
@@ -27,18 +32,6 @@ Encapsulamento com getters e setters
 Herança e polimorfismo aplicados
 
 Modelagem orientada a objetos seguindo boas práticas
-
-
-===================================================
-
-
-**● Exemplos de Uso:**
-
-1. Cadastre pelo menos 1 médico, 1 paciente e 1 local;
-
-2. Agende consultas através do menu;
-
-3. Acesse os relatórios para visualizar estatísticas;
 
 
 ===================================================
