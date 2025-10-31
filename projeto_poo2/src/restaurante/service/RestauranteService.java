@@ -37,11 +37,10 @@ public class RestauranteService
         return false;
     }
 
-    // Método simplificado para exemplo
-
     public double getGastoTotal(String pacienteId)
     {
         double total = 0;
+
         for (Pagamento pagamento : pagamentos)
         {
             if (pagamento.getPessoaId().equals(pacienteId))
