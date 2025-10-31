@@ -13,6 +13,8 @@ public class ClinicaService
         pacientes.add(paciente);
     }
 
+    // Métodos para integração
+
     public List<Paciente> getPacientes()
     {
         return new ArrayList<>(pacientes);
